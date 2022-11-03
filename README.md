@@ -6,6 +6,7 @@ I will try to know what I am learning with you...
 # 1-C++ 
 
 Content:
+
       ● Programming Fundamentals
       
               ○ Variables, Loops, Control Flow, Functions, Recursive Functions, Arrays (1D, 2D, ND)
@@ -49,6 +50,7 @@ Content:
 # Algorithms using C++:
 
 Content:
+
       ● Online Judges and How to use
       ● Recursion: Basics Review
       ● Complexity Analysis (Part 1)
