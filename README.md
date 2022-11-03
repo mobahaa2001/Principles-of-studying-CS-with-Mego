@@ -63,7 +63,7 @@ Content:
       ● Shortest Path Algorithm: Floyd-Warshal
       ● Shortest Path Algorithm: Bellman-Ford
       ● Shortest Path Algorithm: Dijkstra
-      ● Minimum Spanning Tree: Prim
+      ● Minimum Spanning Tree: Prim 
       ● Minimum Spanning Tree: Kruskal
 
 
