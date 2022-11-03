@@ -22,13 +22,15 @@ Content:
 		  
       ● Modern C++ 11/14/17
 	
-              ○ Move Semantics, Perfect Forwarding, Variadic template, Folding expressions, Smart Pointers, Lambda Expressions, Wrappers (Optional, Variant, Any, Functional) and more
+              ○ Move Semantics, Perfect Forwarding, Variadic template, Folding expressions, Smart Pointers, 
+	      Lambda Expressions, Wrappers (Optional, Variant, Any, Functional) and more
       
 	● Extensive set of quizzes, practice, homework and projects
       
 # Data Structures using C++
 
 Content:
+
       ● Asymptotic Complexity
       ● Vector
       ● Singly Linked List
