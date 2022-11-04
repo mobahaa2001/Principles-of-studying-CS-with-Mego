@@ -25,9 +25,7 @@ Content:
 	
               ○ Move Semantics, Perfect Forwarding, Variadic template, Folding expressions, Smart Pointers, 
 	      Lambda Expressions, Wrappers (Optional, Variant, Any, Functional) and more
-      
-	● Extensive set of quizzes, practice, homework and projects
-      
+            
 # Data Structures using C++
 
 Content:
@@ -45,7 +43,6 @@ Content:
       ● AVL Tree
       ● Letter Tree (Trie)
       ● Hash Table
-      ● Extensive Homework sets with video solutions
       
 # Algorithms using C++:
 
